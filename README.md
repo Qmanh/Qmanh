@@ -1,7 +1,7 @@
 # Quang Manh's Portfolio
 
 ## Introduction
-Hello, I'm Quang Manh, a dedicated Backend Developer specializing in Java core programming language and Spring Boot framework. I also have proficiency in ReactJs for frontend development.
+Hello, I'm Quang Manh, a skilled Web Developer experienced in Java Spring Boot and Node.js. I have knowledge of React.js for frontend development.
 
 ## Education
 - Graduated with a major in Computer Networks and Data Communications from Ton Duc Thang University.
