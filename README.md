@@ -9,10 +9,10 @@ Hello, I'm Quang Manh, a dedicated Backend Developer specializing in Java core p
 ## Skills
 ### Backend Development
 - Java (Spring Boot)
-- NodeJs
+- NodeJs(Express)
 - RESTful API Design
-- Database Management (MySQL)
-- Authentication and Authorization (Spring Security)
+- Database Management (MySQL, MongoDB)
+- Authentication and Authorization (Spring Security, JWT)
 
 ### Frontend Development
 - ReactJs
